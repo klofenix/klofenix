@@ -75,7 +75,7 @@
 
 <a href="https://www.instagram.com/klofenix/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-klofenix-blue?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:publi@camilomartinez.es"><img alt="Email" src="https://img.shields.io/badge/Email-Write%20to%20me-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:publi@camilomartinez.es"><img alt="Email" src="https://img.shields.io/badge/Email-Write%20me-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
